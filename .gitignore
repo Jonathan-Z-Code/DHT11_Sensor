@@ -9,3 +9,4 @@ arduino-lint.exe
 include/*
 lib/*
 test/*
+.vscode/*
